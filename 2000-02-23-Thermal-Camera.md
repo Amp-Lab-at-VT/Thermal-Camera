@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Robert Perkel
-Professor Jason Thweatt
+author: Robert Perkel, Professor Jason Thweatt
 show_sidebar: false
 ---
 
