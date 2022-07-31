@@ -3,8 +3,8 @@ layout: project_template
 title: Thermal Camera
 description: The goal is to create a live-view thermal camera using an FPGA as the controller.
 date: 2000-02-23 09:00:00
-hero_image: /web/img/Thermal-Camera/open_house.png
-image: /web/img/Thermal-Camera/open_house.png
+hero_image: /web/img/Thermal-Camera/Hero.png
+image: /web/img/Thermal-Camera/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
