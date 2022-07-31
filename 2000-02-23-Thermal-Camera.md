@@ -21,7 +21,7 @@ Robert Perkel
 Professor Jason Thweatt
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Thermal-Camera"" >Thermal-Camera</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Thermal-Camera" >Thermal-Camera</a>
 
 ## Photo
 
